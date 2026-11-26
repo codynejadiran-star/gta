@@ -1,0 +1,9 @@
+{
+  "name": "halcyon-heat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Halcyon Heat with its own multiplayer server",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
